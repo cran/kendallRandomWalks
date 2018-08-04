@@ -19,7 +19,7 @@ or the newest version from Github:
 > devtools::install_github("mstaniak/kendallRandomPackage")
 
 Help:
-> ?kendallRandomPackage
+> ?kendallRandomWalks
 
 Main functionalities:
 

@@ -1,7 +1,7 @@
 Package: kendallRandomWalks
 Title: Simulate and Visualize Kendall Random Walks and Related
         Distributions
-Version: 0.9.3
+Version: 0.9.4
 Authors@R: person("Mateusz", "Staniak", email = "mateusz.staniak@math.uni.wroc.pl", role = c("aut", "cre"))
 Description: Kendall random walks are a continuous-space Markov chains generated
              by the Kendall generalized convolution. This package provides tools
@@ -12,12 +12,12 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: ggplot2, dplyr, tibble, actuar
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.0
 Suggests: knitr, rmarkdown, testthat, covr
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2018-07-10 17:32:39 UTC; mtst
+Packaged: 2018-08-04 12:21:11 UTC; mtst
 Author: Mateusz Staniak [aut, cre]
 Maintainer: Mateusz Staniak <mateusz.staniak@math.uni.wroc.pl>
 Repository: CRAN
-Date/Publication: 2018-07-10 17:50:03 UTC
+Date/Publication: 2018-08-04 21:40:02 UTC
